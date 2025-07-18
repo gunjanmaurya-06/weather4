@@ -1,1 +1,2 @@
-# proje1
+# proje1 weather application
+
